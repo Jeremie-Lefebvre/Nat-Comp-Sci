@@ -26,9 +26,10 @@ ADM - Figure 4.cpp (various versions): Network mean firing rate and its variance
 
 ADM - Figure 5.cpp (various versions): Outputs the mutual information and its variance, across independent trials for network spatial dimension Omega 10mm. Imports axonal conduction velocity (CVS1-1000.txt and LENGTHS1-1000.txt). ADM learning is OFF. 
 
-ADM - Figure 6: Outputs the theoretical predictions, namely the mean firing rate, mean firing rate variance, as a function of conduction velocity. Omega ranges from 1 -1000mm. ADM learning is OFF. No data is imported. 
+ADM - Supplementary Figure 2: Outputs the theoretical predictions, namely the mean firing rate, mean firing rate variance, as a function of conduction velocity. Omega ranges from 1 -1000mm. ADM learning is OFF. No data is imported. 
 
-
+ADM - Supplementary Figure 3:  outputs the dynamics of our network model as ADM plasticity is turned on and started from baseline, while the network is set in a balanced state. Imports axonal lengths, based on the choice of network spatial dimension (i.e. Omega). ADM learning is ON.
+Outputs the mean firing rate, spike train, time evolution of sample CVs, connectivity, conditional firing rates, stability metric, and delay/CV distribution before and after ADM plasticity. These quantities are defined in our manuscript
 
 
  
