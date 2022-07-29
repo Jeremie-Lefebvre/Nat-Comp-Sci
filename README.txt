@@ -31,5 +31,5 @@ ADM - Supplementary Figure 2: Outputs the theoretical predictions, namely the me
 ADM - Supplementary Figure 3:  outputs the dynamics of our network model as ADM plasticity is turned on and started from baseline, while the network is set in a balanced state. Imports axonal lengths, based on the choice of network spatial dimension (i.e. Omega). ADM learning is ON.
 Outputs the mean firing rate, spike train, time evolution of sample CVs, connectivity, conditional firing rates, stability metric, and delay/CV distribution before and after ADM plasticity. These quantities are defined in our manuscript
 
-Data files contains all the data needed to reproduce all the figures (1-5, Supplementary 2 and 3) from the paper, as labelled.
+Data files (.xlsx) contains all the data needed to reproduce all the figures (1-5, Supplementary 2 and 3) from the paper. Name of file specifies which figure the data belongs to, while figures panels are specified within each file as different tabs. 
  
